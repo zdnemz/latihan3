@@ -1,13 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package latihan3;
 
-/**
- *
- * @author ASUS
- */
+// nama     : Maulana Zidane
+// NPM      : 2310010235
+// kelas    : 4D Reguler Banjarbaru
+
 public class Rumus {
-    
+    int sisi;
+    int panjang;
+    int lebar;
+    int hasil;
 }
