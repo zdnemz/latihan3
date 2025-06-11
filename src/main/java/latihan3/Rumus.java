@@ -10,11 +10,22 @@ public class Rumus {
     int lebar;
     int hasil;
     
+    Rumus() {
+        sisi = 0;
+        panjang = 0;
+        lebar = 0;
+        hasil = 0;
+    }
+    
     void setLuasPersegi() {
         this.hasil = this.sisi * this.sisi;
     }
     
     void setLuasPersegiPanjang() {
         this.hasil = this.panjang * this.lebar;
+    }
+    
+    int getHasil() {
+        return this.hasil;
     }
 }
